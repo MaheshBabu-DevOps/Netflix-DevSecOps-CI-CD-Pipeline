@@ -10,8 +10,13 @@
 <br />
 
 <div align="center">
-  <img src="./public/assets/home-page.png" alt="Logo" width="100%" height="100%">
+  <img src="./public/assets/home-page.png" alt="Home Page" width="100%" height="100%">
   <p align="center">Home Page</p>
+
+  <br />
+
+  <img src="./public/assets/CI-CD-PIPELINE.jpeg" alt="CI/CD Pipeline" width="100%" height="100%">
+  <p align="center">CI/CD Pipeline</p>
 </div>
 
 
